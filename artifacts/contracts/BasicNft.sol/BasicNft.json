@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "BasicNft",
+  "sourceName": "contracts/BasicNft.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212200e6262964443088f44dc4a88646c68ba8fb7da813cd43b4e30ee5c558d0c810864736f6c63430008080033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212200e6262964443088f44dc4a88646c68ba8fb7da813cd43b4e30ee5c558d0c810864736f6c63430008080033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
