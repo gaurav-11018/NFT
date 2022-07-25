@@ -6,7 +6,7 @@ I have done a NFT project before using brownie,however this time i plan on using
 
 We go through creating 3 different kinds of NFTs.
 
-1.A Basic NFT
+1.A Basic NFT  ✅
 
 
 2.IPFS Hosted NFT
