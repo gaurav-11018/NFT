@@ -1,7 +1,7 @@
 # NFT
 Ultimate NFT project using hardhat.
 
-I have done a NFT project before using brownie,however this time i plan on using hardhat and make it very very eloborate.very very excited to be working on this...
+I have done a NFT project before using brownie,however this time i plan on using hardhat and make it very very eloborate.very very excited to be working on this....
 
 
 We go through creating 3 different kinds of NFTs.
