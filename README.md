@@ -9,7 +9,7 @@ We go through creating 3 different kinds of NFTs.
 1.A Basic NFT  ✅
 
 
-2.IPFS Hosted NFT
+2.IPFS Hosted NFT  ✅
 
 => That uses Randomness to generate a unique NFT
 
