@@ -10,9 +10,13 @@ We go through creating 3 different kinds of NFTs.
 
 => Simple ERC721 token.
 
+
+
 2. Randomized IPFS Hosted NFT  ✅
 
 => That uses Randomness to generate a unique NFT
+
+
 
 
 3.SVG NFT (Hosted 100% on-chain)
