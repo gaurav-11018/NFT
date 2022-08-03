@@ -8,6 +8,7 @@ We go through creating 3 different kinds of NFTs.
 
 1.A Basic NFT  ✅
 
+=> Simple ERC721 token.
 
 2. Randomized IPFS Hosted NFT  ✅
 
