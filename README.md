@@ -1,7 +1,7 @@
 # NFT
 Ultimate NFT project using hardhat.
 
-I have done a NFT project before using brownie,however this time i plan on using hardhat and make it very very eloborate.very very excited to be working on this.....
+I have done a NFT projects before using brownie,however this time I plan on using hardhat and make it very very eloborate super excited to be working on this.....
 
 
 We go through creating 3 different kinds of NFTs.
@@ -9,7 +9,7 @@ We go through creating 3 different kinds of NFTs.
 1.A Basic NFT  ✅
 
 
-2.IPFS Hosted NFT  ✅
+2. Randomized IPFS Hosted NFT  ✅
 
 => That uses Randomness to generate a unique NFT
 
